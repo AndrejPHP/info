@@ -1,2 +1,6 @@
-# info
-Info about future repositories - you will find them on my new profile https://github.com/AndrejWeb
+# Info
+
+You will find my old repositories & new repositories on my new profile https://github.com/AndrejWeb <= all future repositories will go here as well.
+
+Thanks,
+Andrej
